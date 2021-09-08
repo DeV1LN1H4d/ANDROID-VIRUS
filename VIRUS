@@ -1,0 +1,7 @@
+import os
+while True:
+
+	os.system("\033[0;32m"+"clear")
+	print("\033[0;32m"+"Downloading.......")
+	os.system("cd DeV1L && cp Elite.apk /sdcard")
+	
