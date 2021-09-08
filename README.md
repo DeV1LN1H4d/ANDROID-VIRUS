@@ -1,4 +1,11 @@
 # ANDROID-VIRUS
+
+
+
+
+# INSTALLATION {Termux}
+
+
 * `apt update`
 
 * `apt upgrade`
