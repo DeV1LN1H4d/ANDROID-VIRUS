@@ -2,6 +2,9 @@
 
 
 
+<img src="img1.jpg">
+
+
 
 # INSTALLATION {Termux}
 
